@@ -9,7 +9,7 @@
 ## 🚗**News**
 
 
-
+- 🚀[2025/08/22] We upload more papers!
 - 🚀[2024/01/04] We create this repository to maintain a paper list on LLM-based AI Agents. More papers are coming soon!
 
 
