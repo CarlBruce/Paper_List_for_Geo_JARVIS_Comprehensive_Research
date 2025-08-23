@@ -17,11 +17,22 @@
 
 ## ❣️ Introduction
 
-Artificial intelligence-agent (AI-Agent) is considered to be a promising method to realize artificial general intelligence (AGI), and researchers hope that AI-Agent can realize the automation and intelligence of geographic information science exploration tasks through its general automation capabilities.
+Artificial intelligence-agent (AI-Agent) is considered to be a promising method to realize artificial general intelligence (AGI), 
+and researchers hope that AI-Agent can realize the automation and intelligence of geographic information science exploration 
+tasks through its general automation capabilities.
+
+We propose a new architecture, Geo-JARVIS. It aims to automatically acquire geographic data through the form of AI-Agents 
+and promote the development of new tools and new paradigms for geographic information science exploration and knowledge discovery. 
+Geo-JARVIS is a humanoid agent that is understandable, memorable, plannable, and evolvable. 
+From an abstract perspective, we define the four basic spaces that support Geo-JARVIS: instruction space, task space, 
+model space, and data space, as well as its behavior space for task decomposition, 
+task modeling, task planning, task calibration, and task combination that support basic spatial transformations.
+
+### ❣️The core module
+![core_module.jpg](asset_image/core_module.jpg)
 
 
-
-## Comprehensive survey
+## 一、Comprehensive survey
 
 (1) [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
 
@@ -37,11 +48,7 @@ Artificial intelligence-agent (AI-Agent) is considered to be a promising method 
 
 (7) [If LLM Is the Wizard, Then Code Is the Wand: A Survey on How Code Empowers Large Language Models to Serve as Intelligent Agents](http://arxiv.org/abs/2401.00812)
 
-  
 
-## 一、Multimodal understanding
-
-(1) [AgentBench: Evaluating LLMs as Agents](https://arxiv.org/abs/2308.03688)
 
 ## 二、Task Decomposition
 
