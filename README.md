@@ -21,10 +21,6 @@ Artificial intelligence-agent (AI-Agent) is considered to be a promising method 
 
 
 
-[Toc]
-
-
-
 ## Comprehensive survey
 
 (1) [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
@@ -47,7 +43,7 @@ Artificial intelligence-agent (AI-Agent) is considered to be a promising method 
 
 (1) [AgentBench: Evaluating LLMs as Agents](https://arxiv.org/abs/2308.03688)
 
-## 二、Task Decomposed
+## 二、Task Decomposition
 
 (1) [Meditations on first philosophy](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315508818-3/meditations-first-philosophy-ren%C3%A9-descartes)
 
@@ -91,22 +87,94 @@ Artificial intelligence-agent (AI-Agent) is considered to be a promising method 
 
 ## 三、Task Modeling
 
-(1) [Mathematical discoveries from program search with large language models](https://www.nature.com/articles/s41586-023-06924-6)
+(1) [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.16789)
+
+(2) [Tool Learning with Large Language Models: A Survey](https://arxiv.org/abs/2405.17935)
+
+(3) [ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search](https://arxiv.org/abs/2310.13227)
+
+(4) [ToolQA: A Dataset for LLM Question Answering with External Tools](https://arxiv.org/pdf/2306.13304)
+
+(5) [ToolRerank: Adaptive and Hierarchy-Aware Reranking for Tool Retrieval](https://arxiv.org/abs/2403.06551)
+
+(6) [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://proceedings.neurips.cc/paper_files/paper/2023/hash/77c33e6a367922d003ff102ffb92b658-Abstract-Conference.html)
+
+(7) [ControlLLM: Augment Language Models with Tools by Searching on Graphs](https://arxiv.org/pdf/2310.17796)
+
+(8) [OpenAGI: When LLM Meets Domain Experts](https://proceedings.neurips.cc/paper_files/paper/2023/file/1190733f217404edc8a7f4e15a57f301-Paper-Datasets_and_Benchmarks.pdf)
+
+(9) [Chain-of-experts: When llms meet complex operations research problems](https://chat.deepseek.com/)
+
+(10) [AutoAgents: A Framework for Automatic Agent Generation](https://arxiv.org/abs/2309.17288)
+
 
 ## 四、Task Planning
 
-(1) [TOOLLLM: FACILITATING LARGE LANGUAGE MODELS TO MASTER 16000+ REAL-WORLD APIS](https://arxiv.org/abs/2307.16789)
+(1) [Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations](https://arxiv.org/pdf/2308.16505)
 
-(2) [AUTOACT: Automatic Agent Learning from Scratch via Self-Planning](https://arxiv.org/pdf/2401.05268.pdf)
+(2) [Reflexion: Language Agents with Verbal Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2023/file/1b44b878bb782e6954cd888628510e90-Paper-Conference.pdf)
 
-## 五、Task Decision
+(3) [Self-Refine: Iterative Refinement with Self-Feedback](https://proceedings.neurips.cc/paper_files/paper/2023/file/91edff07232fb1b55a505a9e9f6c0ff3-Paper-Conference.pdf)
 
-(1) [CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society](https://arxiv.org/abs/2303.17760)
+(4) [Learning From Mistakes Makes LLM Better Reasoner](https://arxiv.org/pdf/2310.20689)
 
-## 六、Task Composed
+(5) [LLM+P: Empowering Large Language Models with Optimal Planning Proficiency](https://arxiv.org/pdf/2304.11477)
 
-(1) [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
+(6) [Toolformer: Language Models Can Teach Themselves to Use Tools](https://proceedings.neurips.cc/paper_files/paper/2023/file/d842425e4bf79ba039352da0f658a906-Paper-Conference.pdf)
 
+(7) [ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings](https://proceedings.neurips.cc/paper_files/paper/2023/file/8fd1a81c882cd45f64958da6284f4a3f-Paper-Conference.pdf)
+
+
+## 五、Task Calibration
+
+(1) [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2404.18930?)
+
+(2) [A survey on hallucination in large language models: Principles, taxonomy, challenges, and open questions](https://arxiv.org/pdf/2311.05232)
+
+(3) [KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/pdf/2403.03101)
+
+(4) [A Survey on RAG Meeting LLMs: Towards Retrieval-Augmented Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3637528.3671470)
+
+(5) [RAG and RAU: A survey on retrieval-augmented language model in natural language processing](https://arxiv.org/pdf/2404.19543?)
+
+(6) [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://par.nsf.gov/servlets/purl/10539591)
+
+(7) [Dialogue Chain-of-Thought Distillation for Commonsense-aware Conversational Agents](https://arxiv.org/pdf/2310.09343)
+
+(8) [CANDLE: Iterative Conceptualization and Instantiation Distillation from Large Language Models for Commonsense Reasoning](https://arxiv.org/pdf/2401.07286)
+
+(9) [HellaSwag: Can a Machine Really Finish Your Sentence?](https://arxiv.org/pdf/1905.07830)
+
+(10) [Commonsense Reasoning for Natural Language Processing](https://aclanthology.org/2020.acl-tutorials.7/)
+
+(11) [Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM](https://arxiv.org/abs/2402.11517)
+
+(12) [On Large Language Models in National Security Applications](https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/sta4.70057)
+
+(13) [GEOLLM: EXTRACTING GEOSPATIAL KNOWLEDGE FROM LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2310.06213)
+
+(14) [An Autonomous GIS Agent Framework for Geospatial Data Retrieval](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2458688)
+
+
+## 六、Task Ensemble
+
+(1) [A Survey on Mixture of Experts in Large Language Models](https://arxiv.org/abs/2407.06204)
+
+(2) [Multi-Agent Collaboration: Harnessing the Power of Intelligent LLM Agents](https://arxiv.org/pdf/2306.03314)
+
+(3) [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/abs/2401.06066)
+
+(4) [HyperMoE: Towards Better Mixture of Experts via Transferring Among Experts](https://arxiv.org/abs/2402.12656)
+
+(5) [MVMoE: Multi-Task Vehicle Routing Solver with Mixture-of-Experts](https://arxiv.org/abs/2405.01029)
+
+(6) [Too Many Cooks: Bayesian Inference for Coordinating Multi-Agent Collaboration](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12525)
+
+(7) [CoAct: A Global-Local Hierarchy for Autonomous Agent Collaboration](https://arxiv.org/abs/2406.13381)
+
+(8) [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents](https://cz5waila03cyo0tux1owpyofgoryroob.itic-sci.com/9C/54/B4/9C54B47616795A320E36FCB1EA595C91.pdf)
+
+(9) [MetaGPT: Meta programming for a multi-agent collaborative framework](https://repository.kaust.edu.sa/items/84128c48-cfbc-4e41-96b0-5e7df879c1ab)
 
 
 ## Contact
