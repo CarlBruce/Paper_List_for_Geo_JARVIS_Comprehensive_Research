@@ -185,4 +185,4 @@ task modeling, task planning, task calibration, and task combination that suppor
 
 
 ## Contact
-- Xian Li: xian_li@csu.edu.cn
+- Xian Li: xian_zw@outlook.com
