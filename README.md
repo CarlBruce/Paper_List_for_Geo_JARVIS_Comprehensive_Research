@@ -32,7 +32,7 @@ task modeling, task planning, task calibration, and task combination that suppor
 ![core_module.jpg](asset_image/core_module.jpg)
 
 
-## 一、Comprehensive survey
+## Comprehensive survey
 
 (1) [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432)
 
@@ -50,7 +50,7 @@ task modeling, task planning, task calibration, and task combination that suppor
 
 
 
-## 二、Task Decomposition
+## Task Decomposition
 
 (1) [Meditations on first philosophy](https://www.taylorfrancis.com/chapters/edit/10.4324/9781315508818-3/meditations-first-philosophy-ren%C3%A9-descartes)
 
@@ -92,7 +92,7 @@ task modeling, task planning, task calibration, and task combination that suppor
 
 (20) [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
 
-## 三、Task Modeling
+## Task Modeling
 
 (1) [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.16789)
 
@@ -115,7 +115,7 @@ task modeling, task planning, task calibration, and task combination that suppor
 (10) [AutoAgents: A Framework for Automatic Agent Generation](https://arxiv.org/abs/2309.17288)
 
 
-## 四、Task Planning
+## Task Planning
 
 (1) [Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations](https://arxiv.org/pdf/2308.16505)
 
@@ -132,7 +132,7 @@ task modeling, task planning, task calibration, and task combination that suppor
 (7) [ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings](https://proceedings.neurips.cc/paper_files/paper/2023/file/8fd1a81c882cd45f64958da6284f4a3f-Paper-Conference.pdf)
 
 
-## 五、Task Calibration
+## Task Calibration
 
 (1) [Hallucination of Multimodal Large Language Models: A Survey](https://arxiv.org/pdf/2404.18930?)
 
@@ -163,7 +163,7 @@ task modeling, task planning, task calibration, and task combination that suppor
 (14) [An Autonomous GIS Agent Framework for Geospatial Data Retrieval](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2458688)
 
 
-## 六、Task Ensemble
+## Task Ensemble
 
 (1) [A Survey on Mixture of Experts in Large Language Models](https://arxiv.org/abs/2407.06204)
 
@@ -183,6 +183,16 @@ task modeling, task planning, task calibration, and task combination that suppor
 
 (9) [MetaGPT: Meta programming for a multi-agent collaborative framework](https://repository.kaust.edu.sa/items/84128c48-cfbc-4e41-96b0-5e7df879c1ab)
 
+## Scenarios and Solution
+
+### Spatial Optimization: COVID-19 Nucleic Acid Sampling Point Distribution Task
+![SS1.jpg](asset_image/SS1.jpg)
+### Spatial Distribution Pattern Analysis: Spatial Analysis of COVID-19 Distribution Patterns in China
+![SS2.jpg](asset_image/SS2.jpg)
+### Discovery of unknown spatial relationships: Discovery of unknown spatial relationships in COVID-19
+![SS3.jpg](asset_image/SS3.jpg)
+### Target Detection: Remote Sensing Image Detection Method for Unknown Ship Targets
+![SS4.jpg](asset_image/SS4.jpg)
 
 ## Contact
 - Xian Li: xian_zw@outlook.com
