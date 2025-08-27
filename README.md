@@ -186,6 +186,14 @@ task modeling, task planning, task calibration, and task combination that suppor
 
 ## Scenarios and Solution
 
+### Spatial Optimization: COVID-19 Nucleic Acid Sampling Point Distribution Task
+![SS1.jpg](asset_image/SS1.jpg)
+### Spatial Distribution Pattern Analysis: Spatial Analysis of COVID-19 Distribution Patterns in China
+![SS2.jpg](asset_image/SS2.jpg)
+### Discovery of unknown spatial relationships: Discovery of unknown spatial relationships in COVID-19
+![SS3.jpg](asset_image/SS3.jpg)
+### Target Detection: Remote Sensing Image Detection Method for Unknown Ship Targets
+![SS4.jpg](asset_image/SS4.jpg)
 
 
 ## Contact
